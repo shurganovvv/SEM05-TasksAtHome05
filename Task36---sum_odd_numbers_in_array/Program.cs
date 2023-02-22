@@ -29,4 +29,4 @@ int SumOddIndex(int[] array)
 
 int[] mas = GetArray(new Random().Next(3, 11), -99, 99);
 PrintArray(mas);
-System.Console.WriteLine(SumOddIndex(mas));
+System.Console.WriteLine(SumOddIndex(mas)); 

@@ -34,4 +34,4 @@ PrintDoubleArray(mas);
 MaxMin(mas, out int min, out int max);
 System.Console.WriteLine($"MIN идёт под № {min + 1} = {mas[min]}");
 System.Console.WriteLine($"MAX идёт под № {max + 1} = {mas[max]}");
-System.Console.WriteLine($"{mas[max]} - {mas[min]} = {mas[max] - mas[min]}");
+System.Console.WriteLine($"{mas[max]} - {mas[min]} = {mas[max] - mas[min]}"); 

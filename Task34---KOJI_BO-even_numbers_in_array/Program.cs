@@ -25,7 +25,7 @@ int EvenNubber(int[] array)
         if (array[i] % 2 == 0)
             nubbers++;
     }
-    return nubbers;
+    return nubbers; 
 }
 
 
