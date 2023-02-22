@@ -1,0 +1,15 @@
+C:\GB\Seminars\SEM05\TasksAtHome05\Task36---sum_odd_numbers_in_array\bin\Debug\net6.0\Task36---sum_odd_numbers_in_array.exe
+C:\GB\Seminars\SEM05\TasksAtHome05\Task36---sum_odd_numbers_in_array\bin\Debug\net6.0\Task36---sum_odd_numbers_in_array.deps.json
+C:\GB\Seminars\SEM05\TasksAtHome05\Task36---sum_odd_numbers_in_array\bin\Debug\net6.0\Task36---sum_odd_numbers_in_array.runtimeconfig.json
+C:\GB\Seminars\SEM05\TasksAtHome05\Task36---sum_odd_numbers_in_array\bin\Debug\net6.0\Task36---sum_odd_numbers_in_array.dll
+C:\GB\Seminars\SEM05\TasksAtHome05\Task36---sum_odd_numbers_in_array\bin\Debug\net6.0\Task36---sum_odd_numbers_in_array.pdb
+C:\GB\Seminars\SEM05\TasksAtHome05\Task36---sum_odd_numbers_in_array\obj\Debug\net6.0\Task36---sum_odd_numbers_in_array.csproj.AssemblyReference.cache
+C:\GB\Seminars\SEM05\TasksAtHome05\Task36---sum_odd_numbers_in_array\obj\Debug\net6.0\Task36---sum_odd_numbers_in_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\Seminars\SEM05\TasksAtHome05\Task36---sum_odd_numbers_in_array\obj\Debug\net6.0\Task36---sum_odd_numbers_in_array.AssemblyInfoInputs.cache
+C:\GB\Seminars\SEM05\TasksAtHome05\Task36---sum_odd_numbers_in_array\obj\Debug\net6.0\Task36---sum_odd_numbers_in_array.AssemblyInfo.cs
+C:\GB\Seminars\SEM05\TasksAtHome05\Task36---sum_odd_numbers_in_array\obj\Debug\net6.0\Task36---sum_odd_numbers_in_array.csproj.CoreCompileInputs.cache
+C:\GB\Seminars\SEM05\TasksAtHome05\Task36---sum_odd_numbers_in_array\obj\Debug\net6.0\Task36---sum_odd_numbers_in_array.dll
+C:\GB\Seminars\SEM05\TasksAtHome05\Task36---sum_odd_numbers_in_array\obj\Debug\net6.0\refint\Task36---sum_odd_numbers_in_array.dll
+C:\GB\Seminars\SEM05\TasksAtHome05\Task36---sum_odd_numbers_in_array\obj\Debug\net6.0\Task36---sum_odd_numbers_in_array.pdb
+C:\GB\Seminars\SEM05\TasksAtHome05\Task36---sum_odd_numbers_in_array\obj\Debug\net6.0\Task36---sum_odd_numbers_in_array.genruntimeconfig.cache
+C:\GB\Seminars\SEM05\TasksAtHome05\Task36---sum_odd_numbers_in_array\obj\Debug\net6.0\ref\Task36---sum_odd_numbers_in_array.dll
